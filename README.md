@@ -1,4 +1,5 @@
-## Hi there 👋
+## Any electronic projects I've worked or am working on can be found here. --->
+## Electrical Engineering student trying to work on some PCB projects using KiCad/Fusion 360/Altium.
 
 <!--
 **thg123123/thg123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
