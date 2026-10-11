@@ -1,17 +1,13 @@
-## Any electronic projects I've worked or am working on can be found here. --->
-## Electrical Engineering student trying to work on some PCB projects using KiCad/Fusion 360/Altium.
+# Hi, I'm Thomas 👋
 
-<!--
-**thg123123/thg123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical Engineering senior at the University of Central Florida specializing in **power electronics, hardware validation, and power systems**. From designing custom high-voltage amplifier PCBs to reverse-engineering power flow discrepancies, I focus on the robust delivery, control, and validation of electrical power.
 
-Here are some ideas to get you started:
+### ⚡ Focus Areas & Current Work
+*   **Power Systems & Grid Resiliency:** Developing solutions for Florida's grid under extreme weather conditions (Siemens Energy HackSTEM) and routing multi-sensor transformer monitoring harnesses.
+*   **Power Electronics:** Designing 3.3V/5.0V boost regulators and multi-layer PCBs with optimized thermal and voltage ripple performance. 
+*   **Hardware Validation:** Executing Root Cause Analysis (RCA) on non-operational harnesses and prototyping PLC test enclosures to establish hardware baselines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+*   **Power & Circuit Design:** KiCad, Altium Designer, LTspice, OrCAD Capture, TI WEBENCH Power Designer
+*   **Validation & Testing:** Infrared Thermography, Oscilloscopes, Spectrum Analyzers, Thermal (Johnson) Noise Analysis, RCA
+*   **Hardware Integration:** PLC Hardware, NEMA 23 Stepper Motors, AC/DC Path Optimization
